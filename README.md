@@ -1,4 +1,4 @@
-# Examples
+# Examples-Go
 
 Este repositório contém exemplos de código em Go que abrangem vários tópicos e funcionalidades.
 
